@@ -20,4 +20,8 @@ public class StudentModel {
     public int getAge() {
         return age;
     }
+    
+    public void setId(String id) {
+        this.id = id;
+    }
 }
